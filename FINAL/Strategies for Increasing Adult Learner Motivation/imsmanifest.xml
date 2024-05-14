@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6h9k3PEIhbM" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Strategies for Increasing Adult Learner Motivation</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Strategies_for_Increasing_Adult_Learner_Motivation_ORG">
+    <organization identifier="Strategies_for_Increasing_Adult_Learner_Motivation_ORG">
+      <title>Strategies for Increasing Adult Learner Motivation</title>
+      <item identifier="FINAL_SCO" isvisible="true" identifierref="__6h9k3PEIhbM_RES">
+        <title>Strategies for Increasing Adult Learner Motivation</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6h9k3PEIhbM_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6mj9giW9lCQ_M_644_644.png" />
+      <file href="mobile/5ZgkxiamwNp.jpg" />
+      <file href="story_content/5wmusNa3eW4_44100_48_0.mp3" />
+      <file href="mobile/5h2KsdEiDsd_M_592_592.png" />
+      <file href="story_content/5j5BMIHtcAg_44100_48_0.mp3" />
+      <file href="mobile/5sEweFujWDC.jpg" />
+      <file href="mobile/6eld0qXAMyz_M_1068_1068_P_0_0_1504_1241.png" />
+      <file href="story_content/6SbKakuwcqs_44100_48_0.mp3" />
+      <file href="mobile/5wdFeyu9L1G6l0zUF17dyv{Width=310, Height=260}Light.png" />
+      <file href="story_content/5gAdrGwA3AO_44100_48_0.mp3" />
+      <file href="story_content/62tGoUsfAPe_44100_48_0.mp3" />
+      <file href="story_content/5j2WDD9l0kh.html" />
+      <file href="mobile/5j2WDD9l0kh683XIBqtYpA{Width=470, Height=404}Light.png" />
+      <file href="story_content/6PZFW836Mtk_44100_48_0.mp3" />
+      <file href="mobile/6WPeuCY6SHL_M_1144_1144_P_0_0_813_1239.png" />
+      <file href="mobile/5pQSx3qgoJl.jpg" />
+      <file href="story_content/5qRMV3VFqqo_44100_48_0.mp3" />
+      <file href="mobile/63lmBx4rtXg.jpg" />
+      <file href="story_content/5yAR5XWhGsT_44100_48_0.mp3" />
+      <file href="mobile/5rTgHTvMelw.jpg" />
+      <file href="story_content/6PvrO54bgnj_44100_48_0.mp3" />
+      <file href="mobile/6EHISeOc88E.jpg" />
+      <file href="story_content/6CLzJD14u7Y_44100_48_0.mp3" />
+      <file href="mobile/5tcK5Rl2wH3.jpg" />
+      <file href="story_content/6h0oaHK8QHL_44100_48_0.mp3" />
+      <file href="mobile/5VoUWorydlp.jpg" />
+      <file href="story_content/6dKrkyvJJp9_44100_48_0.mp3" />
+      <file href="story_content/6I454qT4NF3_captions.js" />
+      <file href="story_content/5jOZLUFmIzr_44100_48_0.mp3" />
+      <file href="mobile/5elh9CvQxZR_M_624_624.png" />
+      <file href="story_content/6RTEEV2jqQd_44100_48_0.mp3" />
+      <file href="story_content/5xukQoIRgKm_44100_48_0.mp3" />
+      <file href="story_content/6B6W5gkkgSX_44100_48_0.mp3" />
+      <file href="story_content/6fnvFPvX7Vy_44100_48_0.mp3" />
+      <file href="story_content/5wbOrMQ4h1o_44100_48_0.mp3" />
+      <file href="story_content/5zcM3cF5FuM_44100_48_0.mp3" />
+      <file href="story_content/6NYL6LYJ1Wf_44100_48_0.mp3" />
+      <file href="story_content/6egKtmKVg3Z_44100_48_0.mp3" />
+      <file href="story_content/6mC60YlzeLf_44100_48_0.mp3" />
+      <file href="story_content/5wqQ8KLYdfP_44100_48_0.mp3" />
+      <file href="story_content/6ZtTh3j8NAK_44100_48_0.mp3" />
+      <file href="story_content/6WY3FP00LLv_44100_48_0.mp3" />
+      <file href="story_content/5y8g8GSnHuZ_44100_48_0.mp3" />
+      <file href="story_content/6l8mN9sWCNv_44100_48_0.mp3" />
+      <file href="story_content/6Kl4bruUVRP_44100_48_0.mp3" />
+      <file href="story_content/6cegp6okHaX_44100_48_0.mp3" />
+      <file href="story_content/6W2Y5BcJ6zG_44100_48_0.mp3" />
+      <file href="story_content/5b2QOgNuc5i_44100_48_0.mp3" />
+      <file href="story_content/6VaxS84zEuT_44100_48_0.mp3" />
+      <file href="story_content/5ncs5P5KEGx_44100_48_0.mp3" />
+      <file href="story_content/6DrMvU9VZ7W_44100_48_0.mp3" />
+      <file href="story_content/61knwkpcHov_44100_48_0.mp3" />
+      <file href="story_content/5sQL8JTLvM6_44100_48_0.mp3" />
+      <file href="story_content/5VxNML8n4is_44100_48_0.mp3" />
+      <file href="story_content/6TJ03w8lXx0_44100_48_0.mp3" />
+      <file href="story_content/6B4MARogvXO_44100_48_0.mp3" />
+      <file href="story_content/6eIXRh8vQFB_44100_48_0.mp3" />
+      <file href="story_content/60Iro293E5B_44100_48_0.mp3" />
+      <file href="story_content/6WD1YZG7R7U_44100_48_0.mp3" />
+      <file href="story_content/6GlcS0seYFP_44100_48_0.mp3" />
+      <file href="story_content/6COerR5GDyH_44100_48_0.mp3" />
+      <file href="story_content/6p5fvELy7hn_44100_48_0.mp3" />
+      <file href="story_content/5kpsA8umj4o_44100_48_0.mp3" />
+      <file href="story_content/5gD86swSQ5j_44100_48_0.mp3" />
+      <file href="story_content/6VglHfmAE4A_44100_48_0.mp3" />
+      <file href="story_content/6TOlU5Yyyvo_44100_48_0.mp3" />
+      <file href="mobile/6DEokQDXvq0_M_690_690.png" />
+      <file href="story_content/6U860hqVdF2_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6Gu2kCdhAKF.jpg" />
+      <file href="mobile/txt__default_5dHbH1zRsW1.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5f4sHVutcEI.js" />
+      <file href="html5/data/js/5kJkbEwc8G1.js" />
+      <file href="html5/data/js/5nORBJHxiTt.js" />
+      <file href="html5/data/js/5nwkg4LiES2.js" />
+      <file href="html5/data/js/5yvW7nwFkfY.js" />
+      <file href="html5/data/js/60wvJ9Jajs2.js" />
+      <file href="html5/data/js/62UeAkYW4Zl.js" />
+      <file href="html5/data/js/64zzWIFyCbX.js" />
+      <file href="html5/data/js/6B7hcZiIMNZ.js" />
+      <file href="html5/data/js/6eRAzelHRB2.js" />
+      <file href="html5/data/js/6fBiTZkmn8D.js" />
+      <file href="html5/data/js/6Hf4HXFThaz.js" />
+      <file href="html5/data/js/6iLHiX3WDeB.js" />
+      <file href="html5/data/js/6k6BWjsNcNk.js" />
+      <file href="html5/data/js/6lcauylYJpo.js" />
+      <file href="html5/data/js/6lPdZGcPvDn.js" />
+      <file href="html5/data/js/6mAbFoF7MgF.js" />
+      <file href="html5/data/js/6ohJk8f9AZ1.js" />
+      <file href="html5/data/js/6PZyw5EqumI.js" />
+      <file href="html5/data/js/6qrLeHh6FV8.js" />
+      <file href="html5/data/js/6S1J7x96FMo.js" />
+      <file href="html5/data/js/6WfcjMwv1bJ.js" />
+      <file href="html5/data/js/6XboPOfgfFG.js" />
+      <file href="html5/data/js/6Xkl0S11G0M.js" />
+      <file href="html5/data/js/6Y4IkUNfzHf.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
