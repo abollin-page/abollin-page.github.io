@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.160 --> 00:03.440\nBarriers to engagement and motivation don\'t just affect students,\n\n00:04.000 --> 00:06.640\nthey also have important implications for teaching.\n\n00:07.200 --> 00:10.640\nWhen you notice signs of disengagement, consider scheduling\n\n00:11.140 --> 00:14.600\none on one check ins. Offering additional practice opportunities or\n\n00:15.100 --> 00:18.400\nproviding tutoring. Creating dedicated time and space for\n\n00:18.900 --> 00:21.600\nextra support can boost students confidence and motivation.\n\n00:22.480 --> 00:25.940\nInstructors can also review their lessons and activities to\n\n00:26.440 --> 00:29.100\nensure the content remains relevant and meaningful to learners.\n\n00:29.740 --> 00:33.260\nEncouraging peer support helps build a sense of community and\n\n00:33.760 --> 00:37.180\nconnection within the classroom. Finally, when external\n\n00:37.680 --> 00:41.340\nfactors contribute to disengagement, instructors should be familiar with available\n\n00:41.420 --> 00:44.700\nstudent support services and make referrals as needed to help\n\n00:45.200 --> 00:45.580\nlearners succeed.\n\n"
+		};
+	window["st_{22B8C71A-162D-40FC-A39B-782E3CF83FAB}"]?.("sndAsset24", subtitles);
+})();

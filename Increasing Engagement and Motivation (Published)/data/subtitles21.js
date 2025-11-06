@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.240 --> 00:03.800\nCommon barriers to engagement and motivation include a lack of\n\n00:04.300 --> 00:07.920\nrelevance, low self confidence, limited autonomy, and an\n\n00:08.420 --> 00:12.240\nunsupportive learning environment. As you explore each of these barriers,\n\n00:12.560 --> 00:16.560\ntake a moment to reflect on a time when you personally experienced low\n\n00:17.060 --> 00:19.120\nengagement or motivation in a learning situation.\n\n"
+		};
+	window["st_{22B8C71A-162D-40FC-A39B-782E3CF83FAB}"]?.("sndAsset21", subtitles);
+})();
