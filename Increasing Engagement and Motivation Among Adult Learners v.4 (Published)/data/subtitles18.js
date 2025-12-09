@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.320 --> 00:03.760\nSo how can you foster intrinsic motivation in your classroom?\n\n00:04.480 --> 00:07.920\nStart by making learning relevant. Design activities\n\n00:08.000 --> 00:11.600\nthat encourage learners to reflect on their experiences or solve\n\n00:12.100 --> 00:15.640\nreal world problems. This helps them create meaningful connections\n\n00:16.140 --> 00:18.960\nbetween new and existing knowledge. Next,\n\n00:19.040 --> 00:22.080\nsupport autonomy by offering choices whenever possible.\n\n00:22.640 --> 00:26.240\nFor example, provide multiple options for homework or\n\n00:26.740 --> 00:29.800\nproject submissions to give learners a sense of ownership over their work.\n\n00:30.440 --> 00:34.320\nBe sure to challenge learners in meaningful ways, focusing on\n\n00:34.820 --> 00:38.640\nmastery and growth rather than simple task completion. And don\'t\n\n00:39.140 --> 00:42.800\nforget to celebrate small wins. Acknowledge progress and effort\n\n00:43.300 --> 00:47.000\nalong the way, reminding students that learning is a process and\n\n00:47.500 --> 00:49.160\nthat improvement matters more than perfection.\n\n"
+		};
+	window["st_{2DA6B061-88C0-40C4-A820-3930460B0C1E}"]?.("sndAsset18", subtitles);
+})();
