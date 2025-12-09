@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.160 --> 00:04.000\nUp to this point, we\'ve developed a foundational understanding of adult\n\n00:04.500 --> 00:08.000\nlearner characteristics and the six principles of adult learning theory.\n\n00:08.640 --> 00:12.200\nWe also met Dana, a 42 year old phlebotomy\n\n00:12.700 --> 00:15.999\nstudent who faced challenges with intrinsic motivation due to\n\n00:16.499 --> 00:20.000\nboth internal and external barriers. Through her story,\n\n00:20.080 --> 00:23.440\nwe explored how these barriers can impact teaching and learning.\n\n00:24.240 --> 00:27.980\nNow the question is, how can we create learning environments\n\n00:28.480 --> 00:31.780\nthat foster engagement and motivation? We achieve this\n\n00:32.280 --> 00:35.900\nby using effective engagement strategies such as problem based learning,\n\n00:37.660 --> 00:41.580\nactive learning, microlearning, and technology integration.\n\n00:42.220 --> 00:45.980\nIn the next few slides, we\'ll take a closer look at each of these\n\n00:46.480 --> 00:47.260\nstrategies in more detail.\n\n"
+		};
+	window["st_{D0DCFEFB-74F6-48AE-BCCC-D66B0E587BE7}"]?.("sndAsset30", subtitles);
+})();

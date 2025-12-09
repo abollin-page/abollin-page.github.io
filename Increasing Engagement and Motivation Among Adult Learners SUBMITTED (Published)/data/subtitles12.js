@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.160 --> 00:04.160\nMalcolm Knowles. Adult learning theory, also known as andragogy,\n\n00:04.240 --> 00:07.720\nis a theory emphasizing adult learners as being self\n\n00:08.220 --> 00:11.440\ndirected and requiring different educational approaches than children,\n\n00:12.080 --> 00:14.320\nfocusing on six key assumptions.\n\n00:15.200 --> 00:18.280\nThese assumptions include the adults need to know the purpose\n\n00:18.780 --> 00:21.840\nof learning, their self concept as responsible individuals,\n\n00:22.160 --> 00:25.440\nthe importance of their prior experiences, their readiness\n\n00:25.940 --> 00:29.410\nto learn based on developmental needs, their orientation to learning\n\n00:29.910 --> 00:33.210\nthrough authentic process based activities, and their reliance on\n\n00:33.710 --> 00:37.970\nintrinsic motivation. As we saw in the video, teaching strategies\n\n00:38.050 --> 00:41.330\nsuch as collaborative activities, sharing experiences\n\n00:41.410 --> 00:45.210\nand providing task based learning are successful tools to\n\n00:45.710 --> 00:49.130\nimplement in the classroom environment as they promote learner participation\n\n00:49.630 --> 00:50.130\nand engagement.\n\n"
+		};
+	window["st_{D0DCFEFB-74F6-48AE-BCCC-D66B0E587BE7}"]?.("sndAsset12", subtitles);
+})();
